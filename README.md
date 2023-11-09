@@ -21,7 +21,6 @@ Code coming soon.
 
 ### Citations
 
-Please use the following citation if you use our data or code:
 
 ```
 @article{xu20233difftection,
