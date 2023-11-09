@@ -1,7 +1,6 @@
 # 3DiffTection
 
 <div align="center">
-Official code for: 
 
 
 **3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**
